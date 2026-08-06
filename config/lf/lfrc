@@ -1,0 +1,12 @@
+# Activar el renderizado de imágenes mediante Sixel
+set kitty true
+
+# Ruta absoluta al script previsualizador
+set previewer ~/.config/lf/pv.sh
+set cleaner ~/.config/lf/cleaner.sh
+
+# Mostrar archivos ocultos por defecto (opcional)
+set hidden true
+
+# Abrir con micro usando l o la flecha derecha
+map l $micro "$f"

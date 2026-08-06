@@ -1,0 +1,20 @@
+# Cachés y datos de navegadores
+**/Cache
+**/cache
+**/GPUCache
+**/Code Cache
+**/Service Worker
+**/Code - OSS/User/workspaceStorage
+**/Code - OSS/CachedData
+
+# Datos grandes de apps
+unity3d/
+mozilla/
+BraveSoftware/
+discord/
+heroic/
+
+# Archivos temporales
+*.log
+*.lock
+.DS_Store
