@@ -1,7 +1,7 @@
 {
     "telemetry.sqmId": "",
     "telemetry.machineId": "c3bfdf2d269d19dd86cb47e6eca9586d88d9a9b1fc23eff3bb8d6a07c9314372",
-    "telemetry.devDeviceId": "e52b6cf4-f685-4ec1-a343-4b190eaed753",
+    "telemetry.devDeviceId": "9c76e0db-9923-48b4-99ef-6ed5e6d5a8e0",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [],
@@ -33,6 +33,10 @@
             "activityBarBorder": "#2a2b2c",
             "sideBarBackground": "#191a1b",
             "sideBarBorder": "#2a2b2c",
+            "panelBackground": "#191a1b",
+            "editorGroupBorder": "rgba(255, 255, 255, 0.09)",
+            "agentsPanelBackground": "#191a1b",
+            "agentsPanelBorder": "#2a2b2c",
             "statusBarBackground": "#191a1b",
             "statusBarBorder": "#2a2b2c",
             "statusBarNoFolderBackground": "#191a1b"
@@ -42,10 +46,11 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 300,
-            "auxiliaryBarWidth": 300,
+            "sideBarWidth": 236,
+            "auxiliaryBarWidth": 236,
             "statusBarHeight": 22,
-            "windowBorder": false
+            "windowBorder": false,
+            "modernUI": false
         }
     },
     "windowsState": {
@@ -56,7 +61,7 @@
                 "x": 16,
                 "y": 10,
                 "width": 952,
-                "height": 1064
+                "height": 1029
             }
         },
         "openedWindows": []

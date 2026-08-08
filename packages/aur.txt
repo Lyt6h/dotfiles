@@ -1,1 +1,2 @@
+apple_hyprcursor 0.1-2
 envycontrol 3.5.2-2

@@ -91,13 +91,13 @@
     --sidebar-backdrop-color: @window_bg_color;
     --sidebar-border-color: @window_bg_color;
 
-    --warning-bg-color: #721c88;
-    --warning-fg-color: #fdd6ff;
+    --warning-bg-color: #c66dda;
+    --warning-fg-color: #3c004b;
     --warning-color: #f4aeff;
 
     --success-color: #b1c6f7;
-    --success-bg-color: #31466f;
-    --success-fg-color: #d8e2ff;
+    --success-bg-color: #344972;
+    --success-fg-color: #a3b8e8;
     
     --shade-color: rgba(0, 0, 0, 0.36);
 }
